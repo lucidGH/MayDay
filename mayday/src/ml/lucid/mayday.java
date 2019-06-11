@@ -1,5 +1,5 @@
 package ml.lucid;
-//350+ lethal lines of code
+//500+ lethal lines of code
 
 import static ml.lucid.misc.virus_main.*;
 
