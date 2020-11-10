@@ -13,6 +13,3 @@ public class mayday {
             vmain();
         }
 }
-/*
-lucid aka lucid aka lucko aka apollo
- */
